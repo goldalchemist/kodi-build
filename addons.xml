@@ -64,7 +64,7 @@
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="script.andy.build" name="Andy's Lean Build" version="1.0.0" provider-name="G0XRE">
+<addon id="script.andy.build" name="Andy's Lean Build" version="1.0.1" provider-name="G0XRE">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="plugin.video.umbrella" version="6.8.02"/>
