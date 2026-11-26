@@ -64,7 +64,7 @@
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="script.andy.build" name="Andy's Lean Build" version="1.0.1" provider-name="G0XRE">
+<addon id="script.andy.build" name="Andy's Lean Build" version="1.0.2" provider-name="G0XRE">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="plugin.video.umbrella" version="6.8.02"/>
@@ -72,7 +72,7 @@
     <import addon="plugin.video.the-loop" version="8.4"/>
     <import addon="script.trakt" version="3.9.0"/>
     <import addon="skin.arctic.horizon.2" version="0.8.29"/>
-    <import addon="plugin.video.themoviedb.helper" version="6.22.7"/>
+    <import addon="plugin.video.themoviedb.helper" version="5.4.16"/>
     <import addon="script.andy.control" version="1.0.1"/>
   </requires>
   <extension point="xbmc.python.module" library="lib"/>
